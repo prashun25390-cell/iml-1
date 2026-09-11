@@ -1,5 +1,0 @@
-as i was already done for part a so i used gemini for formatting equations,
-structuring docs report templates, some syntax debugging for NumPy vectorization,
-basic grammar correction and sentence structure improvement.
-and use it for the structure and clean code better variable names 
-tool used- gemini 
